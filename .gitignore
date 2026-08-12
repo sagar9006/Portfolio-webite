@@ -1,0 +1,9 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+.env
+server/.env
+dist/
+build/
+
+# In this file we onlt put those which we don't wanna push on github.
